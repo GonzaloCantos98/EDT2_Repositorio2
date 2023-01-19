@@ -1,5 +1,5 @@
 package es.studium.ejercicio1poo;
-//Prueba
+//Prueba Saludo
 public class Perro
 {
 	private Raza raza;
